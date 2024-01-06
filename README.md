@@ -1,5 +1,5 @@
 # FECFusion
-This is the code for the paper "FECFusion:Infrared and visible image fusion network based on fast edge convolution"
+This is the code for the paper ["FECFusion:Infrared and visible image fusion network based on fast edge convolution"](http://www.aimspress.com/article/doi/10.3934/mbe.2023717)
 
 ## If this work is helpful to you, please cite it as：
 ```
