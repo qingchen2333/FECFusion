@@ -1,5 +1,5 @@
 # FECFusion
-This is official Pytorch implementation of "FECFusion:Infrared and visible image fusion network based on fast edge convolution"
+This is the code for the paper "FECFusion:Infrared and visible image fusion network based on fast edge convolution"
 
 ## If this work is helpful to you, please cite it as：
 ```
